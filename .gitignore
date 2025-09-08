@@ -1,0 +1,46 @@
+# Node modules
+/backend/node_modules/
+/frontend/node_modules/
+
+# Logs
+*.log
+backend/*.log
+
+# Dependency directories
+/node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# VSCode settings folder
+.vscode/
+
+# Build output folders (if any)
+/frontend/build/
+/backend/build/
+/frontend/dist/
+/backend/dist/
+
+# npm package lock files (optional, uncomment if you want to ignore)
+/package-lock.json
+/backend/package-lock.json
+/frontend/package-lock.json
+
+# Logs folder
+logs/
