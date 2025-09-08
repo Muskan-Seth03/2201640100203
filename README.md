@@ -89,9 +89,9 @@ Use Postman, curl, or similar tools to test the API endpoints. Verify logs are s
 
 Attach your screenshots below:
 
-1. ![Screenshot 1](images\shortenURLs.png)
+1. ![Screenshot 1](https://github.com/Muskan-Seth03/2201640100203/blob/main/images/URLStatistics.png)
 
-2. ![Screenshot 2](images\URLStatistics.png)
+2. ![Screenshot 2](https://github.com/Muskan-Seth03/2201640100203/blob/main/images/shortenURLs.png)
 
 ---
 
